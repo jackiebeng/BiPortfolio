@@ -727,4 +727,28 @@ nav ul li a:hover {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.PersonalStatement h2 {
+    padding-top: 200px;
+    padding-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+}
+
+.PersonalStatemnt img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    max-width: 50%;
+    border: 10px solid black;
+}
+
+.PersonalStatement p {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 60px 200px 40px 200px;
+    font-size: 20px;
+}
+
 
